@@ -19,20 +19,6 @@ Through this analysis, we aim to support healthcare professionals and researcher
 - `Education Level`  
 - `Depression Diagnosis`  
 - `Anxiety Diagnosis`
-# Dataset
-Filename: ocd_patient_dataset.csv
-Key Columns:
--Patient ID  
--Gender
--Ethnicity
--Obsession Type
--Compulsion Type
--Y-BOCS Score (Obsessions)
--Y-BOCS Score (Compulsions)
--OCD Diagnosis Date
--Education Level
--Depression Diagnosis, Anxiety Diagnosis
-
 
 # Tools & Technologies Used
 -SQL (MySQL syntax)
@@ -40,13 +26,15 @@ Key Columns:
 -GitHub (Repository and documentation)
 
 # Business Questions
--What is the gender distribution of OCD patients?
--Which ethnicity reports the highest OCD prevalence?
--What are the most common obsession and compulsion types?
--How does the average Y-BOCS score vary with education level?
--How many patients have both anxiety and depression diagnoses?
--What is the severity distribution (Mild, Moderate, Severe) based on Y-BOCS?
--Are there any patterns in symptom duration or family history?
+
+- What is the gender distribution of OCD patients?  
+- Which ethnicity reports the highest OCD prevalence?  
+- What are the most common obsession and compulsion types?  
+- How does the average Y-BOCS score vary with education level?  
+- How many patients have both anxiety and depression diagnoses?  
+- What is the severity distribution (Mild, Moderate, Severe) based on Y-BOCS scores?  
+- Are there any patterns in symptom duration or family history?
+
 
 ##Dashboard
 ![Screenshot](Healthcare_Analysis.png)
