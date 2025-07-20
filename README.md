@@ -7,7 +7,6 @@ Through this analysis, we aim to support healthcare professionals and researcher
 
 # Dataset
 Filename: ocd_patient_dataset.csv
-
 Key Columns:
 -Patient ID  
 -Gender
@@ -17,10 +16,9 @@ Key Columns:
 -Y-BOCS Score (Obsessions)
 -Y-BOCS Score (Compulsions)
 -OCD Diagnosis Date
--Duration of Symptoms (months)
--Family History of OCD
 -Education Level
 -Depression Diagnosis, Anxiety Diagnosis
+
 
 # Tools & Technologies Used
 -SQL (MySQL syntax)
