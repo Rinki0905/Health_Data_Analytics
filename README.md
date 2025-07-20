@@ -19,11 +19,12 @@ Through this analysis, we aim to support healthcare professionals and researcher
 - `Education Level`  
 - `Depression Diagnosis`  
 - `Anxiety Diagnosis`
-
+- 
 # Tools & Technologies Used
--SQL (MySQL syntax)
--Power BI (Dashboard design and visualization)
--GitHub (Repository and documentation)
+
+- SQL (MySQL syntax)  
+- Power BI (Dashboard design and visualization)  
+- GitHub (Repository and documentation)
 
 # Business Questions
 
@@ -40,12 +41,14 @@ Through this analysis, we aim to support healthcare professionals and researcher
 ![Screenshot](Healthcare_Analysis.png)
 
 # Dashboard Insights
-   -The gender distribution is nearly equal, with females (50.2%) slightly more represented.
-   -Caucasian and Asian ethnicities have the highest reported OCD cases.
-   -Washing and Checking are the most common compulsion types.
-   -Most common obsession types include Harm-related and Contamination.
-   -Average obsession scores are highest for Hoarding and Symmetry.
-   -A consistent trend of diagnosis is observed from 2013 to 2023.
+
+- The gender distribution is nearly equal, with females (50.2%) slightly more represented.  
+- Caucasian and Asian ethnicities have the highest reported OCD cases.  
+- Washing and Checking are the most common compulsion types.  
+- Most common obsession types include Harm-related and Contamination.  
+- Average obsession scores are highest for Hoarding and Symmetry.  
+- A consistent trend of diagnosis is observed from 2013 to 2023.
+
 
 
 This analysis provides actionable insights for improving diagnosis tracking, optimizing mental health interventions, and enhancing awareness of OCD symptoms and severity across different demographics.
