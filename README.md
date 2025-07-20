@@ -37,7 +37,7 @@ Key Columns:
 -Are there any patterns in symptom duration or family history?
 
 ##Dashboard
-![Dashboard Screenshot](HealthcareAnalysis.png)
+![Screenshot](Healthcare_Analysis.png)
 
 # Dashboard Insights
    -The gender distribution is nearly equal, with females (50.2%) slightly more represented.
