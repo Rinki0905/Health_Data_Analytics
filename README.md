@@ -36,7 +36,7 @@ Key Columns:
 -What is the severity distribution (Mild, Moderate, Severe) based on Y-BOCS?
 -Are there any patterns in symptom duration or family history?
 
-#Dashboard
+##Dashboard
 ![Dashboard Screenshot](Healthcare Analysis.png)
 
 # Dashboard Insights
