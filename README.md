@@ -5,6 +5,20 @@ This project focuses on the analysis of OCD (Obsessive-Compulsive Disorder) pati
 
 Through this analysis, we aim to support healthcare professionals and researchers in understanding trends and severity patterns in OCD, assisting in informed decision-making.
 
+**Filename:** `ocd_patient_dataset.csv`  
+**Key Columns:**
+
+- `Patient ID`  
+- `Gender`  
+- `Ethnicity`  
+- `Obsession Type`  
+- `Compulsion Type`  
+- `Y-BOCS Score (Obsessions)`  
+- `Y-BOCS Score (Compulsions)`  
+- `OCD Diagnosis Date`  
+- `Education Level`  
+- `Depression Diagnosis`  
+- `Anxiety Diagnosis`
 # Dataset
 Filename: ocd_patient_dataset.csv
 Key Columns:
